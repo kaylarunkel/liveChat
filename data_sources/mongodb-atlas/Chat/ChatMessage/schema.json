@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "room": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "room"
+    ]
+}
